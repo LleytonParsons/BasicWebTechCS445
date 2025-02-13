@@ -11,6 +11,11 @@ const count3 = ref(0)
 </script>
 
 <template>
+  <div id = "app">
+    <img src="../assets/images/240.jpg">
+    <img src="../assets/images/noseart.jpg">
+    <img src="../assets/images/OIP.jpg">
+  </div> 
   <h1>{{ msg }}</h1>
 
   <body>
